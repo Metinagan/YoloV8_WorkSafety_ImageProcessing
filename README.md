@@ -7,6 +7,7 @@ Since model training took a long time, I did 10 repetitions. For better results,
 ## Detect Person
 Using the original model we only detect humans.
 Index 0 represents human class.
+
 ![image](https://github.com/user-attachments/assets/6e3aba87-8261-46c1-8666-5f7d95562d5d)
 
 ## Occupational Safety Control of Detected People
